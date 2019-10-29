@@ -12,4 +12,4 @@ Building and deploying the application
   Init data in import.sql
   
   Login password:
-  John@yandex.ru', '12345' (see import.sql)
+  john@yandex.ru', '12345' (see import.sql)

@@ -19,7 +19,7 @@ public class Test {
 		
 		UserService userService = ServiceUtils.getUserService();
 		// User Authenticate
-		User user =  userService.authenticate("user@javachap.com", "javachap");
+		User user =  userService.authenticate("john@yandex.ru", "12345");
 		System.out.println("User:" + user);
 		
 		// User Save
